@@ -34,3 +34,4 @@ int main(){
     :cout<<"Element is present at index "<<result;
     return 0;
 }
+// Time Complexity: O(log3 n)
